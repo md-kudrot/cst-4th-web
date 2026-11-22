@@ -1,0 +1,16 @@
+#title {
+    background: #0d994c8c;
+    color: aliceblue;
+    width: 20rem;
+    height: 18rem;
+    overflow: auto;
+}
+
+.try {
+    color: red;
+}
+
+.lorem {
+    font-weight: bold;
+    font-size: 20rem;
+}
